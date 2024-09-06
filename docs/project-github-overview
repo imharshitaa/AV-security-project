@@ -2,17 +2,20 @@ autonomous-vehicle-security/
 ├── README.md
 ├── LICENSE
 ├── docs/
-│   └── traffic_analysis_report.md
-│   └── vulnerability_scan_report.md
+│   ├── traffic_analysis_report.md
+│   ├── vulnerability_scan_report.md
+│   └── aircrack_analysis_report.md
 ├── src/
 │   └── vehicle_simulation.py
 ├── config/
 │   └── network_config.md
 ├── results/
-│   └── wireshark_capture.pcapng
-│   └── nmap_scan_results.txt
-│   └── openvas_scan_report.html
+│   ├── wireshark_capture.pcapng
+│   ├── nmap_scan_results.txt
+│   ├── openvas_scan_report.html
+│   └── aircrack_results.txt
 └── .gitignore
+
 
 
 REPOSITRY STRUCTURE
