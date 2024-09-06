@@ -1,6 +1,0 @@
-ENCRYPTION
-
-DECRYPTION
-
-
-
